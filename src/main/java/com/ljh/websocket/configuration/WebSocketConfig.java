@@ -16,6 +16,10 @@ import org.springframework.web.socket.server.standard.ServerEndpointExporter;
  *
  * @ServerEndpoint：就相当于requestmapping，接受客服端发过来的请求，进行映射
  */
+
+/**
+ * ssss
+ */
 @Configuration
 public class WebSocketConfig {
 
